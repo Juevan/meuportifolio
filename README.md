@@ -1,2 +1,0 @@
-# meuportifolio
-Portfólio pessoal.
